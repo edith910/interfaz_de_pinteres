@@ -15,7 +15,7 @@ Se enfoca en replicar la apariencia visual de pinterest, ofreciendo una experien
 
 
   ### Vista previa del proyecto
-  ----pendiente----
+ ![Demo](/imagenes/pinterest.jpg)
 
   ### Contacto
   Si te gustaria invitarme a colaborar en un proyecto, escribeme por...[Edith](https://www.facebook.com/edith.m25)
